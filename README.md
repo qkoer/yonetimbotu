@@ -1,0 +1,2 @@
+# yonetimbotu
+Telegram yonetim botu
